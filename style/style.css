@@ -1,0 +1,62 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+.jumbotron {
+  position: relative;
+  background-image: url(/img/bg.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-position-y: top;
+}
+.intro {
+  position: absolute;
+  margin-top: 28%;
+  margin-left: 10%;
+}
+.imge img {
+  width: 100%;
+}
+.imge h5,
+h6 {
+  text-align: center;
+}
+
+.time {
+  display: inline-block;
+  margin: 2%;
+  text-align: center;
+}
+
+.text h1 {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 8%;
+}
+.text p {
+  font-size: 14px;
+}
+
+.text a {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+.btnm {
+  width: 16%;
+  border: none;
+  background: transparen;
+}
+.btnm i {
+  font-size: 140%;
+}
+
+.title {
+  display: inline-block;
+  text-align: center;
+  margin: 0.5%;
+}
